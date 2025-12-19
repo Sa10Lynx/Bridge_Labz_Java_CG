@@ -1,96 +1,93 @@
 # Bridge_Labz_Java_CG
 
-8th December
+## 8th December
+**Activities:**
+- Started the training program  
+- Introduced to the overall training schedule  
+- Installed all required software and tools  
 
-Activities:
+**Issues:** None
 
-Started the training program
+---
 
-Introduced to the overall training schedule
+## 9th December
+**Activities:**
+- Started exploring basic Git commands  
 
-Installed all required software and tools
+**Issues:** None
 
-Issues: None
+---
 
-9th December
+## 10th December
+**Activities:**
+- Solved basic Java programming questions  
 
-Activities:
+**Issues:** None
 
-Started exploring basic Git commands
+---
 
-Issues: None
+## 11th December
+**Activities:**
+- Solved the next set of Java programming problems  
 
-10th December
+**Issues:** None
 
-Activities:
+---
 
-Solved basic Java programming questions
+## 12th December
+**Activities:**
+- Solved another set of Java programming problems  
 
-Issues: None
+**Issues:**
+- Could not complete all the problems on this day
 
-11th December
+---
 
-Activities:
+## 13th December
+**Activities:**
+- Completed the remaining Java programming problems  
 
-Solved the next set of Java programming problems
+**Issues:** None
 
-Issues: None
+---
 
-12th December
+## 15th December
+**Activities:**
+- Training batches were formed  
+- Questions were provided through GCR  
+- Started **Week 1 – Core Programming**  
+- Solved **Day 01** problems focused on **Programming Elements**  
 
-Activities:
+**Issues:** None
 
-Solved another set of Java programming problems
+---
 
-Issues:
+## 16th December
+**Activities:**
+- Solved **Day 02** problems on **Control Flow**  
+- Started **Day 03** problems on **Arrays**  
 
-Could not complete all the problems on this day
+**Issues:** None
 
-13th December
+---
 
-Activities:
+## 17th December
+**Activities:**
+- Did not attend the training session due to placement process  
 
-Completed the remaining Java programming problems
+**Issues:** Not applicable
 
-Issues: None
+---
 
-15th December
+## 18th December
+**Activities:**
+- Completed the backlog of **Arrays** problems  
+- Started **Day 04** problems on **Methods**  
 
-Activities:
+**Issues:**
+- Could not fully complete **Methods – Level 3** problems
 
-Training batches were formed
-
-Questions were provided through GCR
-
-Started Week 1 – Core Programming
-
-Solved Day 01 problems focused on Programming Elements
-
-Issues: None
-
-16th December
-
-Activities:
-
-Solved Day 02 problems on Control Flow
-
-Started Day 03 problems on Arrays
-
-Issues: None
-
-17th December
-
-Activities:
-
-Did not attend the training session due to placement process
-
-Issues: Not applicable
-
-18th December
-
-Activities:
-
-Completed the backlog of Arrays problems
+---
 
 Started Day 04 problems on Methods
 
